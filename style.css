@@ -45,10 +45,9 @@ header {
 
 #videoplayer {
 	background: #fff;
-	position: relative;
 	width: 100%;
-	left: 650px;
-	top: 650px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #banner {
