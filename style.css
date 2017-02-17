@@ -9,7 +9,7 @@ body {
 }
 
 a {
-	color: #AEAEAE;
+	color: #666666;
 	text-decoration: none;
 }
 	a:hover {
@@ -20,7 +20,8 @@ header {
 	height: 80px;
 	position: fixed;
 	width: 100%;
-  background-color: #717171;
+	background: #aaaaaa;
+	background: -moz-linear-gradient(top, #aaaaaa 1%, #7f7f7f 100%);
 	box-shadow: 0 5px 10px rgba(0,0,0,0.3);
 	z-index: 10;
 }
