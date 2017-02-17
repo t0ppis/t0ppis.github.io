@@ -43,13 +43,6 @@ header {
 				list-style: none;
 			}
 
-#videoplayer {
-	background: #fff;
-	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-}
-
 #banner {
 	height: 500px;
 	position: fixed;
