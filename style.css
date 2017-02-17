@@ -43,6 +43,13 @@ header {
 				list-style: none;
 			}
 
+#videoplayer {
+	background: #fff;
+	position: relative;
+	width: 100%;
+	left: 650px;
+	top: 650px;
+}
 
 #banner {
 	height: 500px;
@@ -51,6 +58,7 @@ header {
 	background-size: cover;
 	width: 100%;
 	top: 80px;
+
 }
 	#banner h2 {
 		margin: 130px auto;
@@ -68,6 +76,14 @@ header {
 	width: 100%;
 	position: relative;
 	top: 500px;
+	z-index: 5;
+}
+
+#content2 {
+	background: #fff;
+	width: 100%;
+	position: relative;
+	top: 650px;
 	z-index: 5;
 }
 
